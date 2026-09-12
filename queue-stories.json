@@ -141,14 +141,16 @@
     {
       "fichier": "st-31-cinq-questions.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "samedi"
+      "publie": "2026-09-12T23:06:02Z",
+      "jourSemaine": "samedi",
+      "id": "18008254010970483"
     },
     {
       "fichier": "st-32-reponse-floue.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "samedi"
+      "publie": "2026-09-12T23:06:12Z",
+      "jourSemaine": "samedi",
+      "id": "18092881262439930"
     },
     {
       "fichier": "st-23-coulisses-test.jpg",
