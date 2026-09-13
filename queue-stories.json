@@ -155,14 +155,16 @@
     {
       "fichier": "st-23-coulisses-test.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "dimanche"
+      "publie": "2026-09-13T23:14:59Z",
+      "jourSemaine": "dimanche",
+      "id": "18095724497636608"
     },
     {
       "fichier": "st-24-coulisses-surplace.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "dimanche"
+      "publie": "2026-09-13T23:15:09Z",
+      "jourSemaine": "dimanche",
+      "id": "18073625108452695"
     },
     {
       "fichier": "st-25-goodnews-allegement.jpg",
