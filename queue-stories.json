@@ -169,14 +169,16 @@
     {
       "fichier": "st-25-goodnews-allegement.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "lundi"
+      "publie": "2026-09-14T23:54:37Z",
+      "jourSemaine": "lundi",
+      "id": "18131163004589642"
     },
     {
       "fichier": "st-26-goodnews-report.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "lundi"
+      "publie": "2026-09-14T23:54:49Z",
+      "jourSemaine": "lundi",
+      "id": "17916694149246093"
     },
     {
       "fichier": "st-27-charte-unepage.jpg",
