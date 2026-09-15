@@ -183,14 +183,16 @@
     {
       "fichier": "st-27-charte-unepage.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "mardi"
+      "publie": "2026-09-15T23:33:46Z",
+      "jourSemaine": "mardi",
+      "id": "17876516373627471"
     },
     {
       "fichier": "st-28-charte-jamais.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "mardi"
+      "publie": "2026-09-15T23:33:57Z",
+      "jourSemaine": "mardi",
+      "id": "17948662365050512"
     },
     {
       "fichier": "st-29-cv-prevenir.jpg",
