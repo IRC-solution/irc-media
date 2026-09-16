@@ -197,14 +197,16 @@
     {
       "fichier": "st-29-cv-prevenir.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "mercredi"
+      "publie": "2026-09-16T23:41:20Z",
+      "jourSemaine": "mercredi",
+      "id": "18132807745640649"
     },
     {
       "fichier": "st-30-cv-duree.jpg",
       "approved": true,
-      "publie": null,
-      "jourSemaine": "mercredi"
+      "publie": "2026-09-16T23:41:30Z",
+      "jourSemaine": "mercredi",
+      "id": "18024847451698724"
     }
   ]
 }
