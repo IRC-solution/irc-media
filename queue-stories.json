@@ -138,7 +138,8 @@
     {
       "fichier": "st-22-facture-question.jpg",
       "approved": true,
-      "publie": null
+      "publie": "2026-09-25T23:58:47Z",
+      "id": "18138258577619384"
     },
     {
       "fichier": "st-31-cinq-questions.jpg",
@@ -212,7 +213,9 @@
     },
     {
       "fichier": "st-33-chatbot-regle.jpg",
-      "approved": true
+      "approved": true,
+      "publie": "2026-09-25T23:58:58Z",
+      "id": "18128634157751360"
     },
     {
       "fichier": "st-34-chatbot-phrase.jpg",
