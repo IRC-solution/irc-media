@@ -52,7 +52,7 @@
     },
     {
       "fichier": "st-05-question.jpg",
-      "approved": false,
+      "approved": true,
       "publie": null,
       "manuel": "Publication manuelle obligatoire — sticker QUESTION a poser dans l app. L API Instagram ne sait pas ajouter de sticker interactif."
     },
@@ -130,12 +130,12 @@
     },
     {
       "fichier": "st-21-facture-cest-fait.jpg",
-      "approved": false,
+      "approved": true,
       "publie": null
     },
     {
       "fichier": "st-22-facture-question.jpg",
-      "approved": false,
+      "approved": true,
       "publie": null
     },
     {
