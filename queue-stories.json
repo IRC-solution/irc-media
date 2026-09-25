@@ -53,8 +53,9 @@
     {
       "fichier": "st-05-question.jpg",
       "approved": true,
-      "publie": null,
-      "manuel": "Publication manuelle obligatoire — sticker QUESTION a poser dans l app. L API Instagram ne sait pas ajouter de sticker interactif."
+      "publie": "2026-09-25T02:02:12Z",
+      "manuel": "Publication manuelle obligatoire — sticker QUESTION a poser dans l app. L API Instagram ne sait pas ajouter de sticker interactif.",
+      "id": "18017720903936744"
     },
     {
       "fichier": "st-06-demo.jpg",
@@ -131,7 +132,8 @@
     {
       "fichier": "st-21-facture-cest-fait.jpg",
       "approved": true,
-      "publie": null
+      "publie": "2026-09-25T02:02:22Z",
+      "id": "18073263329476072"
     },
     {
       "fichier": "st-22-facture-question.jpg",
