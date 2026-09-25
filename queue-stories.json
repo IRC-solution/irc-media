@@ -209,6 +209,38 @@
       "publie": "2026-09-16T23:41:30Z",
       "jourSemaine": "mercredi",
       "id": "18024847451698724"
+    },
+    {
+      "fichier": "st-33-chatbot-regle.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-34-chatbot-phrase.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-35-cse-regle.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-36-cse-reflexe.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-37-cyber-referentiel.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-38-cyber-depart.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-39-diag-aide.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-40-diag-montant.jpg",
+      "approved": true
     }
   ]
 }
