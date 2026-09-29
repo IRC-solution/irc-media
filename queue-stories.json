@@ -256,6 +256,38 @@
     {
       "fichier": "st-40-diag-montant.jpg",
       "approved": true
+    },
+    {
+      "fichier": "st-41-guides-cnil.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-42-guides-regle.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-43-appels-cnil.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-44-appels-reflexe.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-45-opco-plan.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-46-opco-action.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-47-plateformes-liste.jpg",
+      "approved": true
+    },
+    {
+      "fichier": "st-48-plateformes-choix.jpg",
+      "approved": true
     }
   ]
 }
