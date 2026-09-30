@@ -255,11 +255,15 @@
     },
     {
       "fichier": "st-40-diag-montant.jpg",
-      "approved": true
+      "approved": true,
+      "publie": "2026-09-30T00:35:42Z",
+      "id": "18109414100587028"
     },
     {
       "fichier": "st-41-guides-cnil.jpg",
-      "approved": true
+      "approved": true,
+      "publie": "2026-09-30T00:35:53Z",
+      "id": "18028131395911214"
     },
     {
       "fichier": "st-42-guides-regle.jpg",
