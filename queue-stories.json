@@ -267,11 +267,15 @@
     },
     {
       "fichier": "st-42-guides-regle.jpg",
-      "approved": true
+      "approved": true,
+      "publie": "2026-10-01T00:38:04Z",
+      "id": "18032906996890794"
     },
     {
       "fichier": "st-43-appels-cnil.jpg",
-      "approved": true
+      "approved": true,
+      "publie": "2026-10-01T00:38:14Z",
+      "id": "18101098664371565"
     },
     {
       "fichier": "st-44-appels-reflexe.jpg",
