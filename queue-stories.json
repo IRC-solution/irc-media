@@ -1,11 +1,16 @@
 {
-  "_doc": "File des stories. 2 par jour. approved:false = ignorée.",
+  "_doc": "File des stories. 2 par jour. approved:false = ignorée. Relance 2e tour le 09/10/2026 (stories éphémères, contenu toujours valide) ; publications passées dans 'historique'.",
   "stories": [
     {
       "fichier": "st-01-chiffre.jpg",
       "approved": true,
-      "publie": "2026-08-23T21:06:21Z",
-      "id": "17868692433638388"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-23T21:06:21Z",
+          "id": "17868692433638388"
+        }
+      ]
     },
     {
       "fichier": "st-02-sondage.jpg",
@@ -17,295 +22,525 @@
     {
       "fichier": "st-03-objection.jpg",
       "approved": true,
-      "publie": "2026-08-23T21:41:21Z",
-      "id": "17942673609074559"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-23T21:41:21Z",
+          "id": "17942673609074559"
+        }
+      ]
     },
     {
       "fichier": "st-04-difference.jpg",
       "approved": true,
-      "publie": "2026-08-23T21:41:32Z",
-      "id": "18134612818723237"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-23T21:41:32Z",
+          "id": "18134612818723237"
+        }
+      ]
     },
     {
       "fichier": "st-11-confid-regle.jpg",
       "approved": true,
-      "publie": "2026-08-25T21:49:22Z",
-      "id": "18118728484715429"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-25T21:49:22Z",
+          "id": "18118728484715429"
+        }
+      ]
     },
     {
       "fichier": "st-12-confid-reflexe.jpg",
       "approved": true,
-      "publie": "2026-08-25T21:49:35Z",
-      "id": "18192036178389078"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-25T21:49:35Z",
+          "id": "18192036178389078"
+        }
+      ]
     },
     {
       "fichier": "st-13-confid-pourquoi.jpg",
       "approved": true,
-      "publie": "2026-08-27T00:53:24Z",
-      "id": "18459811177187782"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-27T00:53:24Z",
+          "id": "18459811177187782"
+        }
+      ]
     },
     {
       "fichier": "st-14-confid-question.jpg",
       "approved": true,
-      "publie": "2026-08-27T00:53:34Z",
-      "id": "18162254932470918"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-27T00:53:34Z",
+          "id": "18162254932470918"
+        }
+      ]
     },
     {
       "fichier": "st-05-question.jpg",
       "approved": true,
-      "publie": "2026-09-25T02:02:12Z",
+      "publie": null,
       "manuel": "Publication manuelle obligatoire — sticker QUESTION a poser dans l app. L API Instagram ne sait pas ajouter de sticker interactif.",
-      "id": "18017720903936744"
+      "historique": [
+        {
+          "publie": "2026-09-25T02:02:12Z",
+          "id": "18017720903936744"
+        }
+      ]
     },
     {
       "fichier": "st-06-demo.jpg",
       "approved": true,
-      "publie": "2026-08-28T05:29:57Z",
-      "id": "18325386772279599"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-28T05:29:57Z",
+          "id": "18325386772279599"
+        }
+      ]
     },
     {
       "fichier": "st-07-test.jpg",
       "approved": true,
-      "publie": "2026-08-28T05:30:05Z",
-      "id": "18192923977387016"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-28T05:30:05Z",
+          "id": "18192923977387016"
+        }
+      ]
     },
     {
       "fichier": "st-08-metiers.jpg",
       "approved": true,
-      "publie": "2026-08-29T03:12:48Z",
-      "id": "18076588901355850"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-29T03:12:48Z",
+          "id": "18076588901355850"
+        }
+      ]
     },
     {
       "fichier": "st-09-donnees.jpg",
       "approved": true,
-      "publie": "2026-08-29T03:12:57Z",
-      "id": "18125979967760824"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-29T03:12:57Z",
+          "id": "18125979967760824"
+        }
+      ]
     },
     {
       "fichier": "st-10-local.jpg",
       "approved": true,
-      "publie": "2026-08-29T23:26:38Z",
-      "id": "17966720505158754"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-08-29T23:26:38Z",
+          "id": "17966720505158754"
+        }
+      ]
     },
     {
       "fichier": "st-15-marquage-regle.jpg",
       "approved": true,
-      "publie": "2026-09-09T23:22:19Z",
+      "publie": null,
       "jourSemaine": "mercredi",
-      "id": "18133913206724333"
+      "historique": [
+        {
+          "publie": "2026-09-09T23:22:19Z",
+          "id": "18133913206724333"
+        }
+      ]
     },
     {
       "fichier": "st-16-marquage-exception.jpg",
       "approved": true,
-      "publie": "2026-09-09T23:22:31Z",
+      "publie": null,
       "jourSemaine": "mercredi",
-      "id": "18113882554965735"
+      "historique": [
+        {
+          "publie": "2026-09-09T23:22:31Z",
+          "id": "18113882554965735"
+        }
+      ]
     },
     {
       "fichier": "st-17-formation-obligation.jpg",
       "approved": true,
-      "publie": "2026-09-10T23:15:53Z",
+      "publie": null,
       "jourSemaine": "jeudi",
-      "id": "18144222469563936"
+      "historique": [
+        {
+          "publie": "2026-09-10T23:15:53Z",
+          "id": "18144222469563936"
+        }
+      ]
     },
     {
       "fichier": "st-18-formation-date.jpg",
       "approved": true,
-      "publie": "2026-09-10T23:16:03Z",
+      "publie": null,
       "jourSemaine": "jeudi",
-      "id": "18407891749094518"
+      "historique": [
+        {
+          "publie": "2026-09-10T23:16:03Z",
+          "id": "18407891749094518"
+        }
+      ]
     },
     {
       "fichier": "st-19-emotions-interdit.jpg",
       "approved": true,
-      "publie": "2026-09-11T23:23:09Z",
+      "publie": null,
       "jourSemaine": "vendredi",
-      "id": "18108768194143307"
+      "historique": [
+        {
+          "publie": "2026-09-11T23:23:09Z",
+          "id": "18108768194143307"
+        }
+      ]
     },
     {
       "fichier": "st-20-emotions-exception.jpg",
       "approved": true,
-      "publie": "2026-09-11T23:23:19Z",
+      "publie": null,
       "jourSemaine": "vendredi",
-      "id": "18036690332832452"
+      "historique": [
+        {
+          "publie": "2026-09-11T23:23:19Z",
+          "id": "18036690332832452"
+        }
+      ]
     },
     {
       "fichier": "st-21-facture-cest-fait.jpg",
       "approved": true,
-      "publie": "2026-09-25T02:02:22Z",
-      "id": "18073263329476072"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-25T02:02:22Z",
+          "id": "18073263329476072"
+        }
+      ]
     },
     {
       "fichier": "st-22-facture-question.jpg",
       "approved": true,
-      "publie": "2026-09-25T23:58:47Z",
-      "id": "18138258577619384"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-25T23:58:47Z",
+          "id": "18138258577619384"
+        }
+      ]
     },
     {
       "fichier": "st-31-cinq-questions.jpg",
       "approved": true,
-      "publie": "2026-09-12T23:06:02Z",
+      "publie": null,
       "jourSemaine": "samedi",
-      "id": "18008254010970483"
+      "historique": [
+        {
+          "publie": "2026-09-12T23:06:02Z",
+          "id": "18008254010970483"
+        }
+      ]
     },
     {
       "fichier": "st-32-reponse-floue.jpg",
       "approved": true,
-      "publie": "2026-09-12T23:06:12Z",
+      "publie": null,
       "jourSemaine": "samedi",
-      "id": "18092881262439930"
+      "historique": [
+        {
+          "publie": "2026-09-12T23:06:12Z",
+          "id": "18092881262439930"
+        }
+      ]
     },
     {
       "fichier": "st-23-coulisses-test.jpg",
       "approved": true,
-      "publie": "2026-09-13T23:14:59Z",
+      "publie": null,
       "jourSemaine": "dimanche",
-      "id": "18095724497636608"
+      "historique": [
+        {
+          "publie": "2026-09-13T23:14:59Z",
+          "id": "18095724497636608"
+        }
+      ]
     },
     {
       "fichier": "st-24-coulisses-surplace.jpg",
       "approved": true,
-      "publie": "2026-09-13T23:15:09Z",
+      "publie": null,
       "jourSemaine": "dimanche",
-      "id": "18073625108452695"
+      "historique": [
+        {
+          "publie": "2026-09-13T23:15:09Z",
+          "id": "18073625108452695"
+        }
+      ]
     },
     {
       "fichier": "st-25-goodnews-allegement.jpg",
       "approved": true,
-      "publie": "2026-09-14T23:54:37Z",
+      "publie": null,
       "jourSemaine": "lundi",
-      "id": "18131163004589642"
+      "historique": [
+        {
+          "publie": "2026-09-14T23:54:37Z",
+          "id": "18131163004589642"
+        }
+      ]
     },
     {
       "fichier": "st-26-goodnews-report.jpg",
       "approved": true,
-      "publie": "2026-09-14T23:54:49Z",
+      "publie": null,
       "jourSemaine": "lundi",
-      "id": "17916694149246093"
+      "historique": [
+        {
+          "publie": "2026-09-14T23:54:49Z",
+          "id": "17916694149246093"
+        }
+      ]
     },
     {
       "fichier": "st-27-charte-unepage.jpg",
       "approved": true,
-      "publie": "2026-09-15T23:33:46Z",
+      "publie": null,
       "jourSemaine": "mardi",
-      "id": "17876516373627471"
+      "historique": [
+        {
+          "publie": "2026-09-15T23:33:46Z",
+          "id": "17876516373627471"
+        }
+      ]
     },
     {
       "fichier": "st-28-charte-jamais.jpg",
       "approved": true,
-      "publie": "2026-09-15T23:33:57Z",
+      "publie": null,
       "jourSemaine": "mardi",
-      "id": "17948662365050512"
+      "historique": [
+        {
+          "publie": "2026-09-15T23:33:57Z",
+          "id": "17948662365050512"
+        }
+      ]
     },
     {
       "fichier": "st-29-cv-prevenir.jpg",
       "approved": true,
-      "publie": "2026-09-16T23:41:20Z",
+      "publie": null,
       "jourSemaine": "mercredi",
-      "id": "18132807745640649"
+      "historique": [
+        {
+          "publie": "2026-09-16T23:41:20Z",
+          "id": "18132807745640649"
+        }
+      ]
     },
     {
       "fichier": "st-30-cv-duree.jpg",
       "approved": true,
-      "publie": "2026-09-16T23:41:30Z",
+      "publie": null,
       "jourSemaine": "mercredi",
-      "id": "18024847451698724"
+      "historique": [
+        {
+          "publie": "2026-09-16T23:41:30Z",
+          "id": "18024847451698724"
+        }
+      ]
     },
     {
       "fichier": "st-33-chatbot-regle.jpg",
       "approved": true,
-      "publie": "2026-09-25T23:58:58Z",
-      "id": "18128634157751360"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-25T23:58:58Z",
+          "id": "18128634157751360"
+        }
+      ]
     },
     {
       "fichier": "st-34-chatbot-phrase.jpg",
       "approved": true,
-      "publie": "2026-09-26T23:41:28Z",
-      "id": "18186409006413049"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-26T23:41:28Z",
+          "id": "18186409006413049"
+        }
+      ]
     },
     {
       "fichier": "st-35-cse-regle.jpg",
       "approved": true,
-      "publie": "2026-09-26T23:41:39Z",
-      "id": "17892145569435625"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-26T23:41:39Z",
+          "id": "17892145569435625"
+        }
+      ]
     },
     {
       "fichier": "st-36-cse-reflexe.jpg",
       "approved": true,
-      "publie": "2026-09-27T23:51:06Z",
-      "id": "18052143293807490"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-27T23:51:06Z",
+          "id": "18052143293807490"
+        }
+      ]
     },
     {
       "fichier": "st-37-cyber-referentiel.jpg",
       "approved": true,
-      "publie": "2026-09-27T23:51:16Z",
-      "id": "17887927659468878"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-27T23:51:16Z",
+          "id": "17887927659468878"
+        }
+      ]
     },
     {
       "fichier": "st-38-cyber-depart.jpg",
       "approved": true,
-      "publie": "2026-09-29T01:04:37Z",
-      "id": "18368532664245975"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-29T01:04:37Z",
+          "id": "18368532664245975"
+        }
+      ]
     },
     {
       "fichier": "st-39-diag-aide.jpg",
       "approved": true,
-      "publie": "2026-09-29T01:04:48Z",
-      "id": "18105021245220931"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-29T01:04:48Z",
+          "id": "18105021245220931"
+        }
+      ]
     },
     {
       "fichier": "st-40-diag-montant.jpg",
       "approved": true,
-      "publie": "2026-09-30T00:35:42Z",
-      "id": "18109414100587028"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-30T00:35:42Z",
+          "id": "18109414100587028"
+        }
+      ]
     },
     {
       "fichier": "st-41-guides-cnil.jpg",
       "approved": true,
-      "publie": "2026-09-30T00:35:53Z",
-      "id": "18028131395911214"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-09-30T00:35:53Z",
+          "id": "18028131395911214"
+        }
+      ]
     },
     {
       "fichier": "st-42-guides-regle.jpg",
       "approved": true,
-      "publie": "2026-10-01T00:38:04Z",
-      "id": "18032906996890794"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-01T00:38:04Z",
+          "id": "18032906996890794"
+        }
+      ]
     },
     {
       "fichier": "st-43-appels-cnil.jpg",
       "approved": true,
-      "publie": "2026-10-01T00:38:14Z",
-      "id": "18101098664371565"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-01T00:38:14Z",
+          "id": "18101098664371565"
+        }
+      ]
     },
     {
       "fichier": "st-44-appels-reflexe.jpg",
       "approved": true,
-      "publie": "2026-10-02T00:56:32Z",
-      "id": "18076900100412197"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-02T00:56:32Z",
+          "id": "18076900100412197"
+        }
+      ]
     },
     {
       "fichier": "st-45-opco-plan.jpg",
       "approved": true,
-      "publie": "2026-10-02T00:56:43Z",
-      "id": "18141105016522535"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-02T00:56:43Z",
+          "id": "18141105016522535"
+        }
+      ]
     },
     {
       "fichier": "st-46-opco-action.jpg",
       "approved": true,
-      "publie": "2026-10-03T00:34:11Z",
-      "id": "17990362934865430"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-03T00:34:11Z",
+          "id": "17990362934865430"
+        }
+      ]
     },
     {
       "fichier": "st-47-plateformes-liste.jpg",
       "approved": true,
-      "publie": "2026-10-03T00:34:19Z",
-      "id": "17947871571339071"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-03T00:34:19Z",
+          "id": "17947871571339071"
+        }
+      ]
     },
     {
       "fichier": "st-48-plateformes-choix.jpg",
       "approved": true,
-      "publie": "2026-10-03T23:55:51Z",
-      "id": "18179417569440456"
+      "publie": null,
+      "historique": [
+        {
+          "publie": "2026-10-03T23:55:51Z",
+          "id": "18179417569440456"
+        }
+      ]
     }
   ]
 }
