@@ -4,13 +4,14 @@
     {
       "fichier": "st-01-chiffre.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-10T01:02:14Z",
       "historique": [
         {
           "publie": "2026-08-23T21:06:21Z",
           "id": "17868692433638388"
         }
-      ]
+      ],
+      "id": "17995005285022655"
     },
     {
       "fichier": "st-02-sondage.jpg",
@@ -22,13 +23,14 @@
     {
       "fichier": "st-03-objection.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-10T01:02:23Z",
       "historique": [
         {
           "publie": "2026-08-23T21:41:21Z",
           "id": "17942673609074559"
         }
-      ]
+      ],
+      "id": "18105531308254763"
     },
     {
       "fichier": "st-04-difference.jpg",
