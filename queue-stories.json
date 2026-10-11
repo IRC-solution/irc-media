@@ -35,24 +35,26 @@
     {
       "fichier": "st-04-difference.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-11T00:16:50Z",
       "historique": [
         {
           "publie": "2026-08-23T21:41:32Z",
           "id": "18134612818723237"
         }
-      ]
+      ],
+      "id": "18102139280049817"
     },
     {
       "fichier": "st-11-confid-regle.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-11T00:16:59Z",
       "historique": [
         {
           "publie": "2026-08-25T21:49:22Z",
           "id": "18118728484715429"
         }
-      ]
+      ],
+      "id": "17911549110549825"
     },
     {
       "fichier": "st-12-confid-reflexe.jpg",
