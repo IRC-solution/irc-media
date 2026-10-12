@@ -59,24 +59,26 @@
     {
       "fichier": "st-12-confid-reflexe.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-12T00:39:06Z",
       "historique": [
         {
           "publie": "2026-08-25T21:49:35Z",
           "id": "18192036178389078"
         }
-      ]
+      ],
+      "id": "18128813641842838"
     },
     {
       "fichier": "st-13-confid-pourquoi.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-12T00:39:15Z",
       "historique": [
         {
           "publie": "2026-08-27T00:53:24Z",
           "id": "18459811177187782"
         }
-      ]
+      ],
+      "id": "18137461870636643"
     },
     {
       "fichier": "st-14-confid-question.jpg",
