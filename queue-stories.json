@@ -83,25 +83,27 @@
     {
       "fichier": "st-14-confid-question.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-13T02:38:09Z",
       "historique": [
         {
           "publie": "2026-08-27T00:53:34Z",
           "id": "18162254932470918"
         }
-      ]
+      ],
+      "id": "18127799911846744"
     },
     {
       "fichier": "st-05-question.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-13T02:38:18Z",
       "manuel": "Publication manuelle obligatoire — sticker QUESTION a poser dans l app. L API Instagram ne sait pas ajouter de sticker interactif.",
       "historique": [
         {
           "publie": "2026-09-25T02:02:12Z",
           "id": "18017720903936744"
         }
-      ]
+      ],
+      "id": "17888221566478735"
     },
     {
       "fichier": "st-06-demo.jpg",
