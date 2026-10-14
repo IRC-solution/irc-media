@@ -132,24 +132,26 @@
     {
       "fichier": "st-08-metiers.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-14T23:59:41Z",
       "historique": [
         {
           "publie": "2026-08-29T03:12:48Z",
           "id": "18076588901355850"
         }
-      ]
+      ],
+      "id": "18012534065761030"
     },
     {
       "fichier": "st-09-donnees.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-14T23:59:51Z",
       "historique": [
         {
           "publie": "2026-08-29T03:12:57Z",
           "id": "18125979967760824"
         }
-      ]
+      ],
+      "id": "18106566866213702"
     },
     {
       "fichier": "st-10-local.jpg",
