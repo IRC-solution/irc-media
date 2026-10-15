@@ -156,13 +156,14 @@
     {
       "fichier": "st-10-local.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-15T23:43:36Z",
       "historique": [
         {
           "publie": "2026-08-29T23:26:38Z",
           "id": "17966720505158754"
         }
-      ]
+      ],
+      "id": "18129441238850521"
     },
     {
       "fichier": "st-15-marquage-regle.jpg",
@@ -191,14 +192,15 @@
     {
       "fichier": "st-17-formation-obligation.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-15T23:43:47Z",
       "jourSemaine": "jeudi",
       "historique": [
         {
           "publie": "2026-09-10T23:15:53Z",
           "id": "18144222469563936"
         }
-      ]
+      ],
+      "id": "18645062491015316"
     },
     {
       "fichier": "st-18-formation-date.jpg",
