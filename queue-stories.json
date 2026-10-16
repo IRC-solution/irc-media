@@ -217,26 +217,28 @@
     {
       "fichier": "st-19-emotions-interdit.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-16T23:42:48Z",
       "jourSemaine": "vendredi",
       "historique": [
         {
           "publie": "2026-09-11T23:23:09Z",
           "id": "18108768194143307"
         }
-      ]
+      ],
+      "id": "17905498947605121"
     },
     {
       "fichier": "st-20-emotions-exception.jpg",
       "approved": true,
-      "publie": null,
+      "publie": "2026-10-16T23:42:59Z",
       "jourSemaine": "vendredi",
       "historique": [
         {
           "publie": "2026-09-11T23:23:19Z",
           "id": "18036690332832452"
         }
-      ]
+      ],
+      "id": "18119768291472380"
     },
     {
       "fichier": "st-21-facture-cest-fait.jpg",
