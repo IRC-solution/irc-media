@@ -89,6 +89,22 @@ try {
     process.exit(0);
   }
 
+  // jsDelivr refuse parfois un fichier du depot ("Package size exceeded", 403)
+  // et garde ce refus en cache. Purger le chemin suffit : on verifie avant Meta.
+  if (estVideo) {
+    let ok = false;
+    for (let i = 0; i < 6 && !ok; i++) {
+      const h = await fetch(url, { method: "HEAD" }).catch(() => null);
+      ok = !!h && h.status === 200 && /video\/mp4/.test(h.headers.get("content-type") || "");
+      if (!ok) {
+        say(`CDN pas pret (${h ? h.status : "reseau"}) : purge et nouvel essai`);
+        await fetch(url.replace("https://cdn.jsdelivr.net/", "https://purge.jsdelivr.net/")).catch(() => null);
+        await sleep(15000);
+      }
+    }
+    if (!ok) throw new Error(`Video inaccessible sur le CDN : ${url}`);
+  }
+
   const params = estReel
     ? { media_type: "REELS", video_url: url, caption: next.caption, share_to_feed: "true", access_token: T }
     : { image_url: url, caption: next.caption, access_token: T };
